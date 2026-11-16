@@ -35,7 +35,7 @@ const Contact = () => {
           Whether you have a project in mind or just want to connect, I'd love to hear from you.
         </p>
         <motion.a
-          href="mailto:hello@pooji.me"
+          href="mailto:hello@pooji.tech"
           style={{
             display: 'inline-block',
             backgroundColor: 'transparent',

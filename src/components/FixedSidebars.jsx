@@ -6,7 +6,7 @@ const FixedSidebars = () => {
     { href: "https://github.com/poojitha-kandi", icon: "fab fa-github", label: "GitHub" },
     { href: "https://www.linkedin.com/in/poojithakandi/", icon: "fab fa-linkedin", label: "LinkedIn" },
     { href: "https://x.com/poojitha_kandi", icon: "fab fa-twitter", label: "Twitter" },
-    { href: "https://www.pooji.me/", icon: "fas fa-globe", label: "Website" }
+    { href: "https://www.pooji.tech/", icon: "fas fa-globe", label: "Website" }
   ];
 
   return (
@@ -96,7 +96,7 @@ const FixedSidebars = () => {
         transition={{ duration: 1, delay: 1.7 }}
       >
         <motion.a
-          href="mailto:hello@pooji.me"
+          href="mailto:hello@pooji.tech"
           style={{
             color: '#d1d5db',
             textDecoration: 'none',
@@ -115,7 +115,7 @@ const FixedSidebars = () => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6, delay: 1.9 }}
         >
-          hello@pooji.me
+          hello@pooji.tech
         </motion.a>
         <motion.div 
           style={{

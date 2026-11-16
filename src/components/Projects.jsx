@@ -25,7 +25,7 @@ const Projects = () => {
       description: "Designed and developed a modern, responsive portfolio website with advanced animations, smooth transitions, and optimized performance to showcase projects and skills.",
       image: "https://placehold.co/600x400/0a192f/64ffda?text=Portfolio",
       technologies: ["React", "JavaScript", "CSS", "Framer Motion"],
-      external: "https://pooji.me",
+      external: "https://pooji.tech",
       github: "https://github.com/poojitha-kandi/poojitha-kandi.github.io"
     }
   ];
