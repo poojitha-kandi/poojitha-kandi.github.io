@@ -26,7 +26,7 @@ const Footer = () => {
         transition={{ duration: 0.6 }}
         viewport={{ once: true }}
       >
-        &copy; 2025 Poojitha Kandi. All Rights Reserved.
+        &copy; {new Date().getFullYear()} Poojitha Kandi. All Rights Reserved.
       </motion.p>
       <motion.p 
         style={{

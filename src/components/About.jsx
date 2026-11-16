@@ -179,7 +179,7 @@ const About = () => {
               border: '2px solid #c4b5fd'
             }}>
               <img
-                src="/api/placeholder/300/300"
+                src="/profile-placeholder.svg"
                 alt="Poojitha Kandi"
                 style={{
                   position: 'relative',

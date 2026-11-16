@@ -12,15 +12,15 @@ const ProjectsPage = () => {
       technologies: ["React.js", "Documentation", "Telugu Translation", "Open Source"],
       image: "https://placehold.co/600x400/4f3a65/ddd6fe?text=React+OSS",
       github: "https://github.com/reactjs/react.dev",
-      live: "https://react.dev"
+      live: "https://te-react-dev.vercel.app"
     },
     {
       title: "Image Classification Model",
       description: "Developed and trained a machine learning model using Google Teachable Machine for accurate image classification. The model can identify and categorize various objects with high precision.",
       technologies: ["Machine Learning", "Google Teachable Machine", "Image Processing", "AI"],
       image: "https://placehold.co/600x400/4f3a65/ddd6fe?text=ML+Project",
-      github: "#",
-      live: "#"
+      github: "https://github.com/poojitha-kandi",
+      live: "https://teachablemachine.withgoogle.com/"
     },
     {
       title: "Personal Portfolio Website",
@@ -28,31 +28,31 @@ const ProjectsPage = () => {
       technologies: ["React.js", "CSS3", "Responsive Design", "Web Development"],
       image: "https://placehold.co/600x400/4f3a65/ddd6fe?text=Portfolio",
       github: "https://github.com/poojitha-kandi/poojitha-kandi.github.io",
-      live: "https://poojitha-kandi.github.io"
+      live: "https://www.pooji.tech/"
     },
     {
       title: "Calculator Web Application",
       description: "Developed a fully functional calculator web application with a clean, intuitive user interface. Features all basic arithmetic operations with responsive design for various screen sizes.",
       technologies: ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
       image: "https://placehold.co/600x400/4f3a65/ddd6fe?text=Calculator",
-      github: "#",
-      live: "#"
+      github: "https://github.com/poojitha-kandi/calculator",
+      live: "https://poojitha-kandi.github.io/calculator/"
     },
     {
       title: "To-Do List Web App",
       description: "Designed and built a feature-rich To-Do List application with task management capabilities including add, delete, and edit functions. Includes dark/light mode toggle for enhanced user experience.",
       technologies: ["JavaScript", "Local Storage", "CSS3", "DOM Manipulation"],
       image: "https://placehold.co/600x400/4f3a65/ddd6fe?text=Todo+App",
-      github: "#",
-      live: "#"
+      github: "https://github.com/poojitha-kandi/To-Do",
+      live: "https://poojitha-kandi.github.io/To-Do/"
     },
     {
       title: "Netflix Homepage Clone",
       description: "Created a pixel-perfect, fully responsive Netflix homepage clone using only HTML and CSS. Demonstrates advanced CSS skills including flexbox, grid, and responsive design principles.",
       technologies: ["HTML5", "CSS3", "Flexbox", "CSS Grid", "Responsive Design"],
       image: "https://placehold.co/600x400/4f3a65/ddd6fe?text=Netflix+Clone",
-      github: "#",
-      live: "#"
+      github: "https://github.com/poojitha-kandi/netflix",
+      live: "https://poojitha-kandi.github.io/netflix/"
     }
   ];
 
